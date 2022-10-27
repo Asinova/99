@@ -1,0 +1,32 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid rgb(235, 13, 13);
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+#start_button
+{
+    width:360px;
+    height: 250px;
+    border:1px solid rgb(0, 255, 60);
+}
+#h1
+{
+    width:36px;
+    height: 250px;
+    border:1px solid rgb(0, 255, 60);
+}
